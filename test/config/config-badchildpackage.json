@@ -1,4 +1,0 @@
-{
-  "extends": "@oops/markdownlint-config",
-  "default": true
-}
